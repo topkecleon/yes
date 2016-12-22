@@ -1,0 +1,3 @@
+yes written in Rust.
+
+Currently broken: Panics when used with a pipe.
